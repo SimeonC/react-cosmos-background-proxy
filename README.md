@@ -2,6 +2,12 @@
 
 Easily apply both global and fixture specific background settings for [react-cosmos](https://github.com/react-cosmos/react-cosmos)
 
+#### Installation
+
+```
+npm install --save-dev react-cosmos-background-proxy
+```
+
 ## Usage
 
 ### Basic
