@@ -40,7 +40,7 @@ import createBackgroundProxy from "react-cosmos-background-proxy";
 
 export default [
     createBackgroundProxy(() => {
-        // this will be invoked for every fixture
+        // this will be invoked once when the playground is loaded
         require('node_modules/some-css-framework/dist/styles.css');
     })
 ];

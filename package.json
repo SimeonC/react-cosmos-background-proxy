@@ -1,6 +1,6 @@
 {
   "name": "react-cosmos-background-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily apply a background for a fixture's playground and load global css",
   "main": "dist/index.js",
   "scripts": {
@@ -21,6 +21,7 @@
     "react-cosmos-shared": "^4.4.0"
   },
   "dependencies": {
+    "emotion": "^9.2.6",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
